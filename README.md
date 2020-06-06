@@ -12,6 +12,7 @@
 ####   Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
 ####   Тема 2. Генераторы в Python. Корутины, сопрограммы
 ####   Тема 3. Разработка графических интерфейсов (GUI)
+[Kivy](https://drive.google.com/file/d/1aTLgH4YeUajSmFwBYSk0krOLE5NWAHyT/view?usp=sharing).
 ####   Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)
 ## Year 2
 ### Programming: Python semester 3
