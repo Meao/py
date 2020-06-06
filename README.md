@@ -9,6 +9,10 @@
 ####   Тема 4. Построение графиков на Python
 [Гиперссылка API2plot](https://repl.it/@MarinaKrvtsn/API2plot#main.py).
 ### Programming: Python semester 6
+####   Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
+####   Тема 2. Генераторы в Python. Корутины, сопрограммы
+####   Тема 3. Разработка графических интерфейсов (GUI)
+####   Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)
 ## Year 2
 ### Programming: Python semester 3
 ####  sem3-markdown-git-130918
