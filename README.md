@@ -59,7 +59,7 @@
 [Гиперссылка Memorizing](https://repl.it/@MarinaKrvtsn/memorizing#main.py).
 [Гиперссылка Deprecated](https://repl.it/@MarinaKrvtsn/deprecated).
 [Гиперссылка MVC in Django (Diet optimisation app)](https://github.com/Meao/dietapp).
-[Гиперссылка InstagramBioReader](https://github.com/Meao/university-portfolio/blob/master/python/InstagramBioReader.py).
+[Гиперссылка InstagramBioReader](https://github.com/Meao/py/blob/master/InstagramBioReader.py).
 ####   Тема 4. Встроенные коллекции
 [Гиперссылка Random Sorted](https://repl.it/@MarinaKrvtsn/Random).
 [Гиперссылка split Dict](https://repl.it/@MarinaKrvtsn/splitDict#main.py).
