@@ -5,8 +5,8 @@
 [Гиперссылка facade](https://repl.it/@MarinaKrvtsn/Facade).
 [Гиперссылка importURL](https://repl.it/@MarinaKrvtsn/importURL).
 [Classroom 1](https://github.com/python-advance/sem5-t1-Meao/blob/master/README.md)
-[Classroom 2](https://github.com/python-advance/sem5-t2-Meao/blob/master/README.md)
 ####   Тема 2. Итераторы
+[Classroom 2](https://github.com/python-advance/sem5-t2-Meao/blob/master/README.md)
 ####   Тема 3. Введение в ООА, шаблоны проектирования
 ####   Тема 4. Построение графиков на Python
 [Гиперссылка API2plot](https://repl.it/@MarinaKrvtsn/API2plot#main.py).
