@@ -4,10 +4,12 @@
 ####   Тема 1. Модули. Пакеты
 [Гиперссылка facade](https://repl.it/@MarinaKrvtsn/Facade).
 [Гиперссылка importURL](https://repl.it/@MarinaKrvtsn/importURL).
-[Classroom 1](https://github.com/python-advance/sem5-t1-Meao/blob/master/README.md)
+[Classroom](https://github.com/python-advance/sem5-t1-Meao/blob/master/README.md).
 ####   Тема 2. Итераторы
-[Classroom 2](https://github.com/python-advance/sem5-t2-Meao/blob/master/README.md)
+[Classroom](https://github.com/python-advance/sem5-t2-Meao/blob/master/README.md).
 ####   Тема 3. Введение в ООА, шаблоны проектирования
+[Classroom 1](https://github.com/python-advance/sem5-oop-Meao/blob/master/README.md).
+[Classroom 2](https://github.com/python-advance/python-advance-sem5-t3-Meao).
 ####   Тема 4. Построение графиков на Python
 [Гиперссылка API2plot](https://repl.it/@MarinaKrvtsn/API2plot#main.py).
 ### Programming: Python semester 6
