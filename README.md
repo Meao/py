@@ -14,6 +14,10 @@
 [Classroom](https://github.com/python-advance/sem5-t4-Meao/blob/master/README.md).
 [Гиперссылка API2plot](https://repl.it/@MarinaKrvtsn/API2plot#main.py). 
 [Гиперссылка Fit curve to quadratic poly](https://repl.it/@MarinaKrvtsn/EminentAllMatter#main.py).
+[Гиперссылка ElecCurr](https://repl.it/@MarinaKrvtsn/ElecCurr#main.py). 
+[Гиперссылка Wind in forest](https://repl.it/@MarinaKrvtsn/Wind#main.py). 
+[Гиперссылка Radium emitting](https://repl.it/@MarinaKrvtsn/Radium#main.py). 
+[Гиперссылка CoffeePyEuler cooling down](https://repl.it/@MarinaKrvtsn/CoffeePyEuler#main.py). 
 ### Programming: Python semester 6
 ####   Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
 ####   Тема 2. Генераторы в Python. Корутины, сопрограммы
