@@ -21,6 +21,7 @@
 [Гиперссылка Dockerfile 4 flask](https://github.com/Meao/py/tree/master/flask).
 ### Programming: Python semester 6
 ####   Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
+[Classroom](https://github.com/python-advance/t1-datascienceintro-Meao).
 ####   Тема 2. Генераторы в Python. Корутины, сопрограммы
 ####   Тема 3. Разработка графических интерфейсов (GUI)
 [Kivy](https://drive.google.com/file/d/1aTLgH4YeUajSmFwBYSk0krOLE5NWAHyT/view?usp=sharing).
