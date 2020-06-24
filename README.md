@@ -11,6 +11,7 @@
 [Classroom 1](https://github.com/python-advance/sem5-oop-Meao/blob/master/README.md).
 [Classroom 2](https://github.com/python-advance/python-advance-sem5-t3-Meao).
 ####   Тема 4. Построение графиков на Python
+[Classroom](https://github.com/python-advance/sem5-t4-Meao/blob/master/README.md).
 [Гиперссылка API2plot](https://repl.it/@MarinaKrvtsn/API2plot#main.py).
 ### Programming: Python semester 6
 ####   Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
