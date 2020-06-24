@@ -24,7 +24,8 @@
 [Classroom](https://github.com/python-advance/t1-datascienceintro-Meao).
 ####   Тема 2. Генераторы в Python. Корутины, сопрограммы
 ####   Тема 3. Разработка графических интерфейсов (GUI)
-[Kivy](https://drive.google.com/file/d/1aTLgH4YeUajSmFwBYSk0krOLE5NWAHyT/view?usp=sharing).
+[Classroom](https://github.com/python-advance/t3-gui-Meao).
+[Презентация Kivy](https://drive.google.com/file/d/1Co5qLrG8hnEqrnUsFUIVLnd-TqVSQ8f3/view?usp=sharing).
 ####   Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)
 ## Year 2
 ### Programming: Python semester 3
