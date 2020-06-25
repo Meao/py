@@ -24,6 +24,7 @@
 [Classroom](https://github.com/python-advance/t1-datascienceintro-Meao).
 [Гиперссылка boxplot, countplot](https://repl.it/@MarinaKrvtsn/sem6-t1-lr2-1#main.py).
 ####   Тема 2. Генераторы в Python. Корутины, сопрограммы
+[Classroom](https://github.com/python-advance/t2-generators-Meao).
 ####   Тема 3. Разработка графических интерфейсов (GUI)
 [Classroom](https://github.com/python-advance/t3-gui-Meao).
 [Презентация Kivy](https://drive.google.com/file/d/1Co5qLrG8hnEqrnUsFUIVLnd-TqVSQ8f3/view?usp=sharing).
