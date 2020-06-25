@@ -25,10 +25,12 @@
 [Гиперссылка boxplot, countplot](https://repl.it/@MarinaKrvtsn/sem6-t1-lr2-1#main.py).
 ####   Тема 2. Генераторы в Python. Корутины, сопрограммы
 [Classroom](https://github.com/python-advance/t2-generators-Meao).
+[Гиперссылка fiblist tested](https://repl.it/@MarinaKrvtsn/sem6-t2-lr6#main.py).
 ####   Тема 3. Разработка графических интерфейсов (GUI)
 [Classroom](https://github.com/python-advance/t3-gui-Meao).
 [Презентация Kivy](https://drive.google.com/file/d/1Co5qLrG8hnEqrnUsFUIVLnd-TqVSQ8f3/view?usp=sharing).
 ####   Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)
+[Classroom](https://github.com/python-advance/t4-env-Meao).
 ## Year 2
 ### Programming: Python semester 3
 ####  sem3-markdown-git-130918
