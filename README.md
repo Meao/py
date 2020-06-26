@@ -12,6 +12,7 @@
 [Classroom 2](https://github.com/python-advance/python-advance-sem5-t3-Meao).
 ####   Тема 4. Построение графиков на Python
 [Classroom](https://github.com/python-advance/sem5-t4-Meao/blob/master/README.md).
+[3D графика на языке bpy (blender python)](https://github.com/Meao/blender_mod/blob/master/MKtest.py).
 [Гиперссылка API2plot](https://repl.it/@MarinaKrvtsn/API2plot#main.py). 
 [Гиперссылка Fit curve to quadratic poly](https://repl.it/@MarinaKrvtsn/EminentAllMatter#main.py).
 [Гиперссылка ElecCurr](https://repl.it/@MarinaKrvtsn/ElecCurr#main.py). 
