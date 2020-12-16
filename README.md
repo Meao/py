@@ -1,4 +1,14 @@
 # [Marina Krivcon University Portfolio](https://meao.github.io/university-portfolio/)
+## Year 4
+### Programming: Python semester 7
+####   Тема 1. Многопоточность: потоки, процессы, очереди
+[Classroom](https://github.com/herzenuni/sem7-task1-Meao).
+[Гиперссылка численного интегрирования площади под кривой](https://repl.it/@MarinaKrvtsn/sem7-task2#main.py).
+####   Тема 2. Разработка с Python для веб
+[Деплой Lektor-сайта на GitHub Pages](https://github.com/Meao/staticCMS).
+[Развертывание Flask-сайта](https://github.com/Meao/FlaskAlchemyCSV).
+[Работа с шаблонами Flask-сайта](https://github.com/Meao/Flask-WTForms).
+[Доработка Flask-сайта](https://github.com/Meao/guestbook_flask_alchemy).
 ## Year 3
 ### Programming: Python semester 5
 ####   Тема 1. Модули. Пакеты
