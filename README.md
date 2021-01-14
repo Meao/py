@@ -12,8 +12,12 @@
 [Работа с шаблонами Flask-сайта](https://github.com/Meao/Flask-WTForms).
 [Доработка Flask-сайта](https://github.com/Meao/guestbook_flask_alchemy).
 [Гиперссылка Multiprocess CSV](https://repl.it/@MarinaKrvtsn/MultiprocessCSV#main.py).
-####   Тема Взаимодействие с базами данных
+####   Тема 3. Оптимизация и профилирование вычислений
+[Classroom](https://github.com/Meao/iterchat).
+####   Тема 4. Взаимодействие с базами данных
 [Выступление psycopg-7s](https://docs.google.com/presentation/d/1yqCj9wYNwgDMeQFgL2Z1shmCETsdrACWAC7HvRrWQrg/edit?usp=sharing).
+####   Портфолио ЛР и СР 
+[Classroom](https://github.com/herzenuni/sem7-isr-vsr-Meao/tree/main).
 ## Year 3
 ### Programming: Python semester 5
 ####   Тема 1. Модули. Пакеты
