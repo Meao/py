@@ -4,11 +4,16 @@
 ####   Тема 1. Многопоточность: потоки, процессы, очереди
 [Classroom](https://github.com/herzenuni/sem7-task1-Meao).
 [Гиперссылка численного интегрирования площади под кривой](https://repl.it/@MarinaKrvtsn/sem7-task2#main.py).
+[Гиперссылка concurrent futures matrix multiply](https://repl.it/@MarinaKrvtsn/concurrentFuturesMatrix#main.py).
+[Конспект](https://github.com/Meao/py/blob/master/7-1.md).
 ####   Тема 2. Разработка с Python для веб
 [Деплой Lektor-сайта на GitHub Pages](https://github.com/Meao/staticCMS).
 [Развертывание Flask-сайта](https://github.com/Meao/FlaskAlchemyCSV).
 [Работа с шаблонами Flask-сайта](https://github.com/Meao/Flask-WTForms).
 [Доработка Flask-сайта](https://github.com/Meao/guestbook_flask_alchemy).
+[Гиперссылка Multiprocess CSV](https://repl.it/@MarinaKrvtsn/MultiprocessCSV#main.py).
+####   Тема Взаимодействие с базами данных
+[Выступление psycopg-7s](https://docs.google.com/presentation/d/1yqCj9wYNwgDMeQFgL2Z1shmCETsdrACWAC7HvRrWQrg/edit?usp=sharing).
 ## Year 3
 ### Programming: Python semester 5
 ####   Тема 1. Модули. Пакеты
